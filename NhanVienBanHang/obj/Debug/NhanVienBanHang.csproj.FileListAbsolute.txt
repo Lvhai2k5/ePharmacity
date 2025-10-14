@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\NhanVienBanHang\obj\Debug\NhanVienBanHang.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\NhanVienBanHang\obj\Debug\NhanVienBanHang.Properties.Resources.resources
+C:\Users\ASUS\source\repos\NhanVienBanHang\obj\Debug\NhanVienBanHang.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\NhanVienBanHang\obj\Debug\NhanVienBanHang.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\NhanVienBanHang\bin\Debug\NhanVienBanHang.exe.config
+C:\Users\ASUS\source\repos\NhanVienBanHang\bin\Debug\NhanVienBanHang.exe
+C:\Users\ASUS\source\repos\NhanVienBanHang\bin\Debug\NhanVienBanHang.pdb
+C:\Users\ASUS\source\repos\NhanVienBanHang\obj\Debug\NhanVienBanHang.exe
+C:\Users\ASUS\source\repos\NhanVienBanHang\obj\Debug\NhanVienBanHang.pdb
+C:\Users\ASUS\source\repos\NhanVienBanHang\obj\Debug\NhanVienBanHang.CreateCustomerForm.resources
+C:\Users\ASUS\source\repos\NhanVienBanHang\obj\Debug\NhanVienBanHang.CreateOrderForm.resources
+C:\Users\ASUS\source\repos\NhanVienBanHang\obj\Debug\NhanVienBanHang.OrderHistoryForm.resources
+C:\Users\ASUS\source\repos\NhanVienBanHang\obj\Debug\NhanVienBanHang.UpdateCustomerForm.resources
+C:\Users\ASUS\source\repos\NhanVienBanHang\obj\Debug\NhanVienBanHang.NhanVienBanHang.resources
